@@ -92,7 +92,7 @@
         <openncp.policy-manager.version>${project.version}</openncp.policy-manager.version>
         <!-- Dependency Versions -->
         <axiom-api.version>1.4.0</axiom-api.version>
-        <axis2.version>1.8.1</axis2.version>
+        <axis2.version>1.8.2</axis2.version>
         <wsdl4j.version>1.6.3</wsdl4j.version>
         <bcprov.version>1.68</bcprov.version>
         <batik-css.version>1.14</batik-css.version>

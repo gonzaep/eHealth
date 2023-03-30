@@ -148,7 +148,7 @@
         <xalan.version>2.7.2</xalan.version>
         <xerces.version>2.12.2</xerces.version>
         <xmlbeans.version>3.1.0</xmlbeans.version>
-        <xmlsec.version>2.3.0</xmlsec.version>
+        <xmlsec.version>2.3.3</xmlsec.version>
         <xml-apis.version>1.4.01</xml-apis.version>
         <xstream.version>1.4.18</xstream.version>
         <log4j.version>2.17.1</log4j.version>
